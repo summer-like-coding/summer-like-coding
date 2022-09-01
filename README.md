@@ -1,5 +1,3 @@
-<img src="./readme_header.jpg"/>
-
 # 💫 hello,everyone
 
 👧My name is summer<br>🤞a lifelong learner. <br>⭐want to be a competent front-end Engineer
