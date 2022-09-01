@@ -1,6 +1,8 @@
-# 💫 hello,everyone
+# 🧑‍💻 Hey man
 
-👧My name is summer<br>🤞a lifelong learner. <br>⭐want to be a competent front-end Engineer
+👧My name is summer<br>
+🥇a lifelong learner. <br>
+⭐want to be a competent front-end Engineer
 
 
 # 💻 Tech Stack:
