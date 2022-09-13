@@ -15,4 +15,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=summer-like-coding&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=summer-like-coding&label=summer&color=6&icon=4&pretty=true)](https://visitcount.itsvg.in)
