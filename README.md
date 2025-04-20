@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F78CA2&center=true&vCenter=true&width=400&lines=你好呀%EF%BC%8C我是+Summer~;一名前端开发工程师%E2%9C%A8;喜欢React%2C+TypeScript%2C+可爱的设计~" alt="Typing SVG" />
+  <h1>  明日之花，绽放遍野。
+  欢迎到访，在北山上。</h1>
 </div>
 
 ---
