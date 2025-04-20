@@ -30,6 +30,7 @@
 | 🖨️ 打印插件 | 支持 PDF / 图片 / 标签预览与自动打印，0 配置使用 | React + TS |
 | 🧁 小小博客 | 使用 Notion 搭建的记录空间，分享开发与思考 | Notion |
 | 🛠️ Admin 管理系统 | 基于 Next.js 的企业后台系统，支持权限控制、看板、用户管理等 | Next.js + Tailwind + Zustand |
+| 💬 Chat 系统 | 支持实时通信的 Web 聊天系统，用户私聊、消息记录持久化 | Next.js + Socket.IO + MongoDB + Prisma |
 
 ---
 
